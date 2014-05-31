@@ -2,5 +2,5 @@
 
 void main()
 {
-	printf("bill: luliusheng tes!!!!");
+	printf("bill: luliusheng GitHub Test");
 }
